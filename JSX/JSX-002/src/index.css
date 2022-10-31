@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  overflow: hidden;
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  color: white;
+  margin-top: -20px;
+}
+.innerbox {
+  background-color: #eb6563;
+  padding: 20%;
+}
+h3 {
+  color: white;
+  margin-top: 40px;
+}
+img {
+  width: 40px;
+  margin-top: 20px;
+}
