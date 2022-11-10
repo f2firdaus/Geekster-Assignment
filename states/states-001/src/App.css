@@ -1,0 +1,39 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+.color{
+  
+  height: 100vh;
+}
+.header{
+  display: flex;
+  justify-content: center;
+  /* gap: 10px; */
+  width: 100vw;
+  
+  
+}
+button{
+  margin-left:400px ;
+  width: 60px;
+  height: 30px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  background-color: #c73a66;
+  color: white;
+}
+
+.h1{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 28%;
+}
+.h1-1{
+  text-transform: capitalize;
+  margin-top: 20px;
+  color: #c73a66;
+}
